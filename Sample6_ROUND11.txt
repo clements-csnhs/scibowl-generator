@@ -1,0 +1,391 @@
+﻿ROUND 11
+TOSS-UP
+1) BIOLOGY   Multiple Choice   In elephant seals, sexual selection favors competition among
+males for female mates. Which of the following is a likely result of this phenomenon?
+W) Sexual monomorphism [mon-uh-MOHR-fis-uhm]
+X) Evolution of female handicap structures
+Y) Directional selection toward large male size
+Z) Conspicuous coloration of females
+ANSWER: Y) DIRECTIONAL SELECTION TOWARD LARGE MALE SIZE
+BONUS
+1) BIOLOGY   Short Answer  What is the name of the principle that describes the asymmetric
+fitness pressures between males and females that can lead to sexual selection and evolution?
+ANSWER: BATEMAN’S
+TOSS-UP
+2) EARTH AND SPACE   Multiple Choice   Which of the following minerals is NOT typically found
+in the rock granite?
+W) Olivine
+X) Plagioclase [PLAY-jee-uh-kays]
+Y) Quartz
+Z) Hornblende
+ANSWER: W) OLIVINE
+BONUS
+2) EARTH AND SPACE   Multiple Choice   If two black holes orbit one another at a distance of a
+few Schwarzschild radii [RAY-dee-eye], their orbits will slowly shrink until they merge. By which
+of the following processes does this occur?
+W) Dynamic friction
+X) Gravitational radiation
+Y) Third-body interactions
+Z) Drag from the accretion disks
+ANSWER: X) GRAVITATIONAL RADIATION
+ROUND 11                                                                                            Page 1
+
+
+
+
+TOSS-UP
+3) PHYSICS   Multiple Choice   The electron transitions responsible for the generation of light
+have durations on the order of 10-8 seconds. Which of the following best represents the natural
+linewidth in hertz of the resulting visible light?
+W) 10-8
+X) 3
+Y) 108
+Z) 1016
+ANSWER: Y) 108
+BONUS
+3) PHYSICS   Multiple Choice   Which of the following types of thermometer is based on the
+difference in the voltage induced by a temperature gradient in two metals?
+W) Beckman
+X) Silicon band gap
+Y) Thermistor
+Z) Thermocouple
+ANSWER: Z) THERMOCOUPLE
+TOSS-UP
+4) MATH   Multiple Choice  Which of the following is equivalent to sin24ºcos17º + cos24ºsin17º
+[sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17
+degrees]?
+W) Sine of 7º
+X) Cosine of 41º
+Y) Sine of 41º
+Z) Tangent of 41º
+ANSWER: Y) SINE OF 41º
+BONUS
+4) MATH   Short Answer   Solve for x: 5 +                                                         = x + 7 [5 plus the square root of the
+quantity x plus 14 equals x plus 7].
+ANSWER: 2 (DO NOT ACCEPT: -5)
+ROUND 11                                                                                          Page 2
+
+
+
+
+TOSS-UP
+5) CHEMISTRY   Multiple Choice  Which of the following is false regarding the reaction A(g) +
+B(s)  C(s) ?                                                                                    (READ IS: A gaseous plus B solid yields C solid)
+W) As pressure decreases, reaction rate decreases
+X) As temperature increases, reaction rate increases
+Y) As surface area increases, reaction rate decreases
+Z)  When a catalyst is added, reaction rate increases
+ANSWER: Y) AS SURFACE AREA INCREASES, REACTION RATE DECREASES
+[NOTE:  = YIELDS; (G) = GASEOUS; (S) = SOLID]
+BONUS
+5) CHEMISTRY   Short Answer   Calculate the change in energy from a hydrogen atom’s ground
+state to its first excited state in Rydbergs.
+ANSWER: +3/4
+TOSS-UP
+6) ENERGY   Short Answer  When processing mined uranium ore, it is first crushed to a fine
+powder and then processed with concentrated acid, alkaline, or peroxide solutions to leach out
+the uranium. What is the common term for the remaining coarse powder?
+ANSWER: YELLOWCAKE   (ALSO ACCEPT: URANIA)
+BONUS
+6) ENERGY   Multiple Choice   Which of the following metabolites has the most negative
+standard Gibbs free energy of hydrolysis [hy-DROL-uh-sis]?
+W) Phosphocreatine [fohs-foh-KREE-uh-teen]
+X) Pyrophosphate [py-roh-FOS-fayt]
+Y) Glucose 1-phosphate
+Z) Phosphoenolpyruvate [fohs-foh-uh-nol-py-ROO-vayt]
+ANSWER: Z) PHOSPHOENOLPYRUVATE
+ROUND 11                                                                                         Page 3
+
+
+
+
+TOSS-UP
+7) BIOLOGY   Short Answer   Name the water soluble vitamin found in nuts, grains, and meats
+that functions in vertebrates as a component of the coenzyme NAD+.
+ANSWER: VITAMIN B3 (ACCEPT: NIACIN, NICOTINIC ACID, NICOTINAMIDE, VITAMIN PP;
+DO NOT ACCEPT: VITAMIN B7, BIOTIN)
+BONUS
+7) BIOLOGY   Multiple Choice   Which of the following is most likely to cause sympatric
+speciation?
+W) Mountain building
+X) Habitat fragmentation
+Y) Polyploidy [pol-ee-PLOI-dy]
+Z) Urbanization
+ANSWER: Y) POLYPLOIDY
+TOSS-UP
+8) EARTH AND SPACE   Short Answer   Name the three quantities that can completely describe
+any black hole.
+ANSWER: SPIN, MASS, CHARGE (ACCEPT: ANGULAR MOMENTUM OR ANGULAR
+VELOCITY INSTEAD OF SPIN)
+BONUS
+8) EARTH AND SPACE   Multiple Choice   Which of the following is the dominant cooling
+mechanism in a core-collapse supernova?
+W) X-rays and gamma-rays
+X) Synchrotron emission
+Y) Neutrinos
+Z) Electron evaporation
+ANSWER: Y) NEUTRINOS
+ROUND 11                                                                                      Page 4
+
+
+
+
+TOSS-UP
+9) PHYSICS   Short Answer   In your interferometry [in-ter-fuh-ROM-i-try] experiment, you
+measure a minimum intensity of 1 watt per meter squared and a maximum intensity of 19 watts
+per meter squared. What is the visibility of your fringes?
+ANSWER: 0.9
+BONUS
+9) PHYSICS   Short Answer   The sound source of a ship’s sonar system operates at a frequency
+22 kilohertz. The speed of sound in water is 1482 meters per second. Providing your answer to
+the nearest hundredth, what is the wavelength of the waves in meters emitted by the source?
+ANSWER: 0.07
+TOSS-UP
+10) MATH   Short Answer   If the exterior angle of a base angle of an isosceles [eye-SOS-uh-
+lees] triangle measures 141º, what is the measure of the vertex angle?
+ANSWER: 102°
+BONUS
+10) MATH   Short Answer   If f(x) = -2x - ex [f of x equals negative 2x minus e to the x], what is
+the range of f’ [the derivative of f]?
+ANSWER: (-∞, -2) (ACCEPT: x < -2 or THE OPEN INTERVAL FROM NEGATIVE INFINITY TO
+-2)
+ROUND 11                                                                                             Page 5
+
+
+
+
+TOSS-UP
+11) CHEMISTRY   Multiple Choice  Which of the following compounds would be insoluble in an
+aqueous [AY-kwee-uhs] solution?
+W) Calcium carbonate
+X) Sodium nitrate
+Y) Ammonium hydroxide
+Z) Potassium perchlorate
+ANSWER: W) CALCIUM CARBONATE
+BONUS
+11) CHEMISTRY   Multiple Choice  Which of the following accurately depicts the hybridization
+[HY-bri-dy-zay-shuhn] of each atom in the molecule krypton difluoride?
+W) Krypton: sp3; each fluorine: sp3
+X) Krypton: sp3d; each fluorine: sp3
+Y) Krypton: sp3d2; each fluorine: sp2
+Z) Krypton: sp3d; each fluorine: sp2
+ANSWER: X) KRYPTON: sp3d; EACH FLUORINE: sp3
+TOSS-UP
+12) ENERGY   Multiple Choice   Which of the following was NOT an effect of removing sulfur
+from diesel fuel?
+W) It lowered the nitrous oxides and soot emissions
+X) It slightly increased gas mileage in diesel engines
+Y) It allowed the use of advanced emissions control systems
+Z) It reduced the lubricity of the fuel
+ANSWER: X) IT SLIGHTLY INCREASED GAS MILEAGE IN DIESEL ENGINES
+BONUS
+12) ENERGY   Multiple Choice   Which of the following most accurately describes an advantage
+of a nuclear fusion reactor over a nuclear fission reactor?
+W) A failure of control systems shuts down the fusion reactor
+X) Fusion based nuclear plants are much less expensive than fission plants
+Y) Fusion reactors operate at a lower temperature than fission reactors
+Z) The fuel rods in the fusion reactor can be reused
+ANSWER: W) A FAILURE OF CONTROL SYSTEMS SHUTS DOWN THE FUSION REACTOR
+ROUND 11                                                                                       Page 6
+
+
+
+
+TOSS-UP
+13) BIOLOGY   Multiple Choice   Which of the following best exemplifies secondary
+endosymbiosis [en-doh-sim-bee-OH-sis]?
+W) Human white blood cell phagocytosis [fag-uh-sy-TOH-sis] of a pathogenic bacterium
+X) Cyanobacterium [sy-uh-noh-bak-TEER-ee-uhm] is engulfed by a heterotrophic eukaryote
+[het-er-uh-TROF-ik yoo-KAR-ee-oht]
+Y) A heterotrophic eukaryote engulfs a green algal eukaryote
+Z) Receptor mediated endocytosis [en-doh-sy-TOH-sis]
+ANSWER: Y) HETEROTROPHIC EUKARYOTE ENGULFS A GREEN ALGAL EUKARYOTE
+BONUS
+13) BIOLOGY   Short Answer   In cladistics [kluh-DIS-tiks], what is the term for a group of
+organisms used as a standard for comparison in constructing a phylogenetic [fy-luh-JEN-uh-
+tik] tree?
+ANSWER: OUTGROUP
+TOSS-UP
+14) EARTH AND SPACE   Multiple Choice   The curve that the position of the Sun at noon traces
+on the sky over the course of a year most closely resembles which of the following?
+W) Line
+X) Figure 8
+Y) Ellipse
+Z) Circle
+ANSWER: X) FIGURE 8
+BONUS
+14) EARTH AND SPACE   Multiple Choice  Which of the following should NEVER occur?
+W) Mercury at inferior conjunction
+X) Venus at opposition
+Y) Mars at eastern quadrature
+Z) Jupiter at conjunction
+ANSWER: X) VENUS AT OPPOSITION
+ROUND 11                                                                                        Page 7
+
+
+
+
+TOSS-UP
+15) PHYSICS   Multiple Choice   According to Maxwell’s equations, which of the following does
+NOT exist?
+W) Infinitely separated charges
+X) Magnetic monopoles
+Y) Magnetically contained plasma
+Z) Superconductivity
+ANSWER: X) MAGNETIC MONOPOLES
+BONUS
+15) PHYSICS   Short Answer   A person who weighs 200 pounds on Earth, where acceleration
+due to gravity is 9.8 meters per second squared, is standing in a circular rotating space station
+in outer space, with a tangential speed of 300 meters per second. If the radius of the station is
+9184 meters, what will the person weigh in the space station?
+ANSWER: THE SAME (ACCEPT: 200 POUNDS)
+TOSS-UP
+16) MATH   Short Answer   Providing your answer as a fraction in lowest terms, if a family has
+exactly four children, what is the probability of having three girls and one boy?
+ANSWER: ¼
+BONUS
+16) MATH   Short Answer   If the radius of a spherical balloon is expanding at the rate of 5 inches
+per second, assuming the initial volume is 0 and providing your answer as an improper fraction
+in lowest terms, what is its volume in inches cubed in terms of π after 2 seconds?
+ANSWER: 4000π/3
+ROUND 11                                                                                              Page 8
+
+
+
+
+TOSS-UP
+17) CHEMISTRY   Multiple Choice  Which of the following is the molarity of a 3.0 liter solution
+that contains 21 grams of methane?
+W) 0.15
+X) 0.32
+Y) 0.44
+Z) 0.56
+ANSWER: Y) 0.44
+BONUS
+17) CHEMISTRY   Short Answer   Given that the Ka of benzoic acid is 6.4 x 10-5 and its pKa is
+4.2, providing your answer to one decimal place, what is the pH of a solution of 0.1 molar
+benzoic acid and 0.10 molar sodium benzoate?
+ANSWER: 3.2
+TOSS-UP
+18) ENERGY   Short Answer  What microscopy technique uses energy transfer between two
+molecules to measure the distance between the molecules?
+ANSWER: FLUORESCENCE RESONANCE ENERGY TRANSFER (ACCEPT: FRET OR
+FORSTER RESONANCE ENERGY TRANSFER)
+BONUS
+18) ENERGY   Multiple Choice   Fatty acid synthesis uses which of the following kinds of
+metabolic pathways?
+W) Spiral
+X) Branched
+Y) Linear
+Z) Cyclic
+ANSWER: W) SPIRAL
+ROUND 11                                                                                          Page 9
+
+
+
+
+TOSS-UP
+19) BIOLOGY   Multiple Choice   Which of the following bird species feeds their young crop milk
+for the first few days after hatching?
+W) Pigeons
+X) Gulls
+Y) Ostriches
+Z) Hawks
+ANSWER: W) PIGEONS
+BONUS
+19) BIOLOGY   Short Answer  What is the common name of one mammal species that is not
+viviparous [vy-VIP-ayr-uhs]?
+ANSWER: DUCK BILLED PLATYPUS OR SPINY ANTEATERS (ACCEPT: ECHIDNAS)
+TOSS-UP
+20) EARTH AND SPACE   Short Answer   The North Star today is Polaris. In the time of the
+Babylonians, it was Thuban. What is the reason for this change?
+ANSWER: PRECESSION OF THE EQUINOXES (ACCEPT: PRECESSION OR AXIAL
+PRECESSION)
+BONUS
+20) EARTH AND SPACE   Short Answer   What kind of telescope mount requires motion along
+only one axis to track a celestial object?
+ANSWER: EQUATORIAL
+ROUND 11                                                                                          Page 10
+
+
+
+
+TOSS-UP
+21) PHYSICS   Short Answer   A 2 kilogram box is pushed starting from rest along a horizontal
+surface with a force of 10 newtons. If the frictional force is 4 newtons, how long in seconds will it
+take the box to reach a speed of 15 meters per second?
+ANSWER: 5
+BONUS
+21) PHYSICS   Short Answer   A rock is tied to the end of a 1 meter long string and spun in a
+vertical circle. Providing your answer as a decimal to the nearest hundredth, what is the
+minimum speed in meters per second it can travel and just get around the top, given
+acceleration due to gravity as 10 meters per second squared?
+ANSWER: 3.16
+TOSS-UP
+22) MATH   Multiple Choice   Given triangle ABC with right angle A, angle B with a measure of
+30o, and AC equal to                                                                                    , which of the following is the length of side AB?
+W) 9
+X) 6
+Y) 9
+Z) 12
+ANSWER: W) 9
+BONUS
+22) MATH   Short Answer  What are the radius and the coordinates of the center of the circle
+with equation x2 + 6x + y2 + 8y = 0?
+ANSWER: RADIUS = 5; CENTER = (-3, -4)
+ROUND 11                                                                                                Page 11
+
+
+
+
+TOSS-UP
+23) CHEMISTRY   Multiple Choice  What stress applied to an equilibrium [ee-kwuh-LIB-ree-
+uhm] causes the equilibrium to shift to the side with fewer moles of gas?
+W) Increase in pressure
+X) Increase in volume
+Y) Increase in temperature
+Z) Addition of a catalyst
+ANSWER: W) INCREASE IN PRESSURE
+BONUS
+23) CHEMISTRY   Multiple Choice  Which of the following would be most likely to undergo an
+SN 1, reaction?
+W) Methyl bromide
+X) 2-propyl bromide
+Y) Isopropyl chloride
+Z) Tert-butyl chloride
+ANSWER: Z) TERT-BUTYL CHLORIDE
+TOSS-UP
+24) BIOLOGY   Short Answer  Who is credited with creating the bionomial system for naming
+species?
+ANSWER: KARL VON LINNE OR CAROLUS LINNEAUS
+BONUS
+24) BIOLOGY   Multiple Choice   Which of the following plant hormones is NOT correctly
+matched with hormone effect?
+W) Cytokinin [sy-tuh-KY-nin]: promotes seed dormancy
+X) Abscisic acid: promotes stomata closing
+Y) Ethylene [ETH-uh-leen]: promotes fruit ripening
+Z) Auxin [AWK-sin]: gravitropism
+ANSWER: W) CYTOKININ: PROMOTES SEED DORMANCY
+ROUND 11                                                                                     Page 12
+
+
+
+
+TOSS-UP
+25) EARTH AND SPACE   Multiple Choice   Surface temperature of the Earth is NOT dependent
+upon which of the following?
+W) Heat loss from the interior of the Earth
+X) Amount of incident sunlight
+Y) Planet’s reflectivity
+Z) Greenhouse effect of the atmosphere
+ANSWER: W) HEAT LOSS FROM THE INTERIOR OF THE EARTH
+BONUS
+25) EARTH AND SPACE   Short Answer   The basic building block of the silicates, the silicon-
+oxygen tetrahedron, carries what overall charge?
+ANSWER: -4
+ROUND 11                                                                                       Page 13
+
+
+
+
+

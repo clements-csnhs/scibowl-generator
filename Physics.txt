@@ -1,0 +1,801 @@
+TOSS-UP
+3) PHYSICS   Multiple Choice   If an ideal gas performs work on its surroundings, then which of
+the following must be true?
+W) Its pressure increases
+X) Its volume increases
+Y) Its temperature increases
+Z) Its internal energy decreases
+ANSWER: X) ITS VOLUME INCREASES
+BONUS
+3) PHYSICS   Multiple Choice   A 90 kilogram fullback running north at 10 meters per second is
+tackled by a 120 kilogram linebacker running south at 4 meters per second in a perfectly
+inelastic collision. Which of the following is the velocity in meters per second of the players after
+the collision?
+W) 3 south
+X) 3 north
+Y) 2 south
+Z) 2 north
+ANSWER: Z) 2 NORTH
+
+TOSS-UP
+9) PHYSICS   Multiple Choice   Which of the following will double the power dissipated by a
+resistor?
+W) Doubling the voltage across the resistor
+X) Decreasing the voltage to one half of the original value
+Y) Increasing the voltage by a factor of the square root of 2
+Z) Decreasing the voltage by a factor of the square root of 2
+ANSWER: Y) INCREASING THE VOLTAGE BY A FACTOR OF THE SQUARE ROOT OF 2
+BONUS
+9) PHYSICS   Short Answer   Given c as 3 X 108 meters per second, what is the wavelength in
+meters to the nearest tenth of a radio wave with a frequency of 94.7 megahertz?
+ANSWER: 3.2
+
+TOSS-UP
+15) PHYSICS   Multiple Choice   Which of the following particles has an electric charge of zero?
+W) Electron
+X) Quark
+Y) Gluon
+Z) Muon
+ANSWER: Y) GLUON
+BONUS
+15) PHYSICS   Short Answer   A swimming pool water pump draws about 4.2 amperes when
+connected to 240 volts. If energy costs 10 cents per kilowatt hour, what is the bill to the nearest
+cent for running the pump continuously for 1 day?
+ANSWER: $2.42 (ACCEPT: 242 CENTS)
+
+TOSS-UP
+5) PHYSICS   Multiple Choice   A rock is thrown vertically upwards with speed v from the edge of
+a cliff. At the same moment, a second rock is thrown vertically downwards with the same initial
+speed v. Neglecting air resistance, which of the following statements is true?
+W) The rock that was thrown upwards reaches the bottom of the cliff with a higher velocity
+X) The rock that was thrown downwards reaches the bottom of the cliff with a higher velocity
+Y) Both rocks reach the bottom of the cliff with the same velocity at the same time
+Z) Both rocks reach the bottom of the cliff with the same velocity but at different times
+ANSWER: Z) BOTH ROCKS REACH THE BOTTOM OF THE CLIFF WITH THE SAME
+VELOCITY BUT AT DIFFERENT TIMES
+BONUS
+5) PHYSICS   Short Answer   A mass is spun horizontally at the end of a string. If its speed is
+changed so that the centripetal force is doubled, in simplest decimal form to the nearest tenth,
+what is the ratio of final speed to initial speed?
+ANSWER: 1.4
+
+TOSS-UP
+11) PHYSICS   Multiple Choice   A string 40 centimeters long produces a fundamental frequency
+of 384 hertz. To produce a note one octave higher, the tension in the string must be increased
+by which of the following factors?
+W) 0.7
+X) 1.4
+Y) 2
+Z) 4
+ANSWER: Z) 4
+BONUS
+11) PHYSICS   Short Answer   A meter stick is held by a low-friction support on a stand. A single
+weight and an air-filled balloon hang from the left side of the meter stick; a weight hangs from
+the right side of the meter stick. The fulcrum is adjusted so that the system is balanced and
+level. If the string holding the balloon is burned so as to exert no torque when the string breaks,
+identify by number what will happen when the string breaks: 1) the right side of the meter stick
+will go down; 2) the left side of the meter stick will go down; or 3) the meter stick will remain
+balanced.
+ANSWER: 1
+
+TOSS-UP
+17) PHYSICS   Multiple Choice   If two inductance coils of inductance L are connected in parallel,
+but are well separated, the equivalent inductance of the system is which of the following?
+W) 0.5L
+X) L
+Y) 2L
+Z) L2
+ANSWER: W) 0.5L
+BONUS
+17) PHYSICS   Multiple Choice   Two balls are dropped one second apart from a tall building.
+Given g as 10 meters per second squared and neglecting air resistance, what is the
+approximate distance in meters between the two balls three seconds after the first ball is
+dropped?
+W) 20
+X) 25
+Y) 45
+Z) Depends on the masses
+ANSWER: X) 25
+
+TOSS-UP
+23) PHYSICS   Multiple Choice   White light is incident on a diffraction grating. Which of the
+following colors will be diffracted through the largest angle?
+W) Red
+X) Yellow
+Y) Blue
+Z) Green
+ANSWER: W) RED
+BONUS
+23) PHYSICS   Multiple Choice   A square conducting loop of length L on a side carries a current
+i. Which of the following best characterizes the magnetic field at the center of the loop?
+W) Independent of L
+X) Inversely proportional to L
+Y) Proportional to L
+Z) Proportional to L2
+ANSWER: X) INVERSELY PROPORTIONAL TO L
+
+TOSS-UP
+2) PHYSICS   Short Answer  Which Greek scientist discovered that, when an object is immersed
+in a fluid, there is a buoyant force acting upward on the object equal to the weight of the
+displaced fluid?
+ANSWER: ARCHIMEDES
+BONUS
+2) PHYSICS   Multiple Choice   Which of the following is true for a cyclist applying her brakes
+while traveling west on a straight path?
+W) Her acceleration is zero
+X) She accelerates to the east
+Y) She accelerates to the west
+Z) She accelerates both to the east and the west
+ANSWER: X) SHE ACCELERATES TO THE EAST
+
+TOSS-UP
+8) PHYSICS   Multiple Choice   Pascal’s law governs the actions of forces in which of the
+following?
+W) Gases
+X) Solids
+Y) Incompressible fluids
+Z) A vacuum
+ANSWER: Y) INCOMPRESSIBLE FLUIDS
+BONUS
+8) PHYSICS   Short Answer  What current, in amperes, is carried in a lightning stroke that lasts
+0.5 seconds and transfers 100 coulombs of charge?
+ANSWER: 200
+
+TOSS-UP
+16) PHYSICS   Short Answer   The two leaves of an electroscope repel each other and stand out
+at an angle. What force balances the electrical force so the leaves don’t stand out farther?
+ANSWER: GRAVITY
+BONUS
+16) PHYSICS   Short Answer   A block of wood, when floating in water, displaces 300 cubic
+centimeters of water. When completely submerged, the block displaces 400 cubic centimeters
+of water. What is the specific gravity of the block?
+ANSWER: 0.75
+
+TOSS-UP
+22) PHYSICS   Short Answer  What force does a charged particle moving through a magnetic
+field experience that is perpendicular to the direction the particle is traveling?
+ANSWER: LORENTZ   (ACCEPT: MAGNETIC FORCE)
+BONUS
+22) PHYSICS   Short Answer  What is the mass, in kilograms, of a 2 kilogram rock on a planet
+with a gravitational acceleration of 8.2 meters per second squared?
+ANSWER: 2
+
+TOSS-UP
+3) PHYSICS   Short Answer   An alpha particle consists of what types and numbers of subatomic
+particles?
+ANSWER: TWO PROTONS AND TWO NEUTRONS
+BONUS
+3) PHYSICS   Multiple Choice   The rotor of a helicopter blade turns at an angular speed of 5
+revolutions per second, which is approximately which of the following in radians per second?
+W) 22
+X) 31
+Y) 35
+Z) 40
+ANSWER: X) 31
+
+TOSS-UP
+9) PHYSICS   Multiple Choice   Which of the following wave types does not exhibit polarization?
+W) Gravitational
+X) X-ray
+Y) Acoustic
+Z) Visible light
+ANSWER: Y) ACOUSTIC
+BONUS
+9) PHYSICS   Short Answer   Identify all of the following three choices that may define the phase
+velocity of a wave: 1) frequency, 2) period, 3) wavelength.
+ANSWER: ALL (ACCEPT: 1, 2, 3)
+
+TOSS-UP
+17) PHYSICS   Short Answer   A person standing on a scaffold lowers an object with a weight of
+250 newtons by means of a rope, at constant speed. If the weight of the rope is negligible, what
+is the force in newtons that the person exerts on the rope?
+ANSWER: 250
+BONUS
+17) PHYSICS   Short Answer   Relative to the ground, how many joules of potential energy does
+a 1000 newton boulder have at the top of a 5 meter ledge, relative to the bottom of the ledge
+and given g as 10 meters per second squared?
+ANSWER: 5000
+
+TOSS-UP
+23) PHYSICS   Multiple Choice   An unpowered open truck is coasting horizontally with a
+constant velocity along a frictionless track underneath a grain bin when grain falls vertically into
+the truck, partly filling it as it moves along. Which of the following will happen to the horizontal
+momentum of the truck with the accumulating grain?
+W) It will decrease
+X) It will increase
+Y) It will stay the same
+Z) It will first increase and then decrease
+ANSWER: Y) IT WILL STAY THE SAME
+BONUS
+23) PHYSICS   Short Answer   A mass is suspended by two springs of equal length connected in
+parallel. The mass stretches the springs by a distance A beyond their equilibrium length. The
+springs are rearranged to be connected in series, so that now the mass stretches the springs by
+a distance B beyond their equilibrium length. By number, identify which of the following is true:
+1) A is greater than B, 2) A is less than B, 3) A and B are the same distance.
+ANSWER: 2
+
+TOSS-UP
+3) PHYSICS   Multiple Choice   In a series-connected string of holiday lights, which of the
+following is most likely to occur if one bulb gets shorted without breaking the filament?
+W) All other bulbs will go out
+X) The current in the string will increase
+Y) The current in the string will decrease
+Z) The current in the string will remain unchanged
+ANSWER: X) THE CURRENT IN THE STRING WILL INCREASE
+BONUS
+3) PHYSICS   Short Answer   If a car goes from zero to 20 meters per second in 8 seconds,
+providing your answer to the nearest tenth, what is its average acceleration in meters per
+second squared?
+ANSWER: 2.5
+
+TOSS-UP
+9) PHYSICS   Multiple Choice   An object of mass m sits on a flat table. The Earth pulls on the
+object with force mg. Which of the following is the corresponding reaction force?
+W) The table pushing down on the floor with force mg
+X) The object pushing down on the table with force mg
+Y) The object pulling upward on the Earth with force mg
+Z) The table pushing up on the object with force mg
+ANSWER: Y) THE OBJECT PULLING UPWARD ON THE EARTH WITH FORCE mg
+BONUS
+9) PHYSICS   Short Answer   A projectile is fired from a gun at an angle of 45o with respect to the
+horizontal. Given 9.8 meters per second squared as the acceleration due to gravity, and
+neglecting air resistance, what are the magnitude and direction of the acceleration of the
+projectile when it reaches its maximum height?
+ANSWER: 9.8 METERS PER SECOND SQUARED, DOWNWARD (ACCEPT: -9.8 METERS
+PER SECOND SQUARED)
+
+TOSS-UP
+17) PHYSICS   Short Answer  What is the mathematical relationship between the period of a
+wave and the frequency of a wave?
+ANSWER: INVERSE (ACCEPT: INVERSELY PROPORTIONAL)
+BONUS
+17) PHYSICS   Short Answer   If a radio station broadcasts with a wavelength of 2.5 meters, what
+is the frequency of the radio station in megahertz, given the speed of light as 3 X 108 meters per
+second?
+ANSWER: 120
+
+TOSS-UP
+23) PHYSICS   Multiple Choice   A massless, rigid, insulating rod of length R is attached at one
+end to a wall by a hinge so that it is free to swing vertically. The other end of the rod is attached
+to a sphere of mass m with charge -Q. If the rod and sphere are released in a horizontal
+position, which of the following electric fields is required to maintain the horizontal position of the
+rod?
+W) mg/Q, down
+X) mg/Q, up
+Y) mgQ/R, down
+Z) mgR/Q, up
+ANSWER: W) mg/Q, DOWN
+BONUS
+23) PHYSICS   Multiple Choice   The majority of helium originating in the dust cloud that formed
+the Earth has since evaporated into space. Most present-day terrestrially available helium
+comes from which of the following?
+W) Nuclear fusion reactors
+X) A by-product of nuclear fission
+Y) Harvested from the ionosphere
+Z) Radioactive decay of heavier elements
+ANSWER: Z) RADIOACTIVE DECAY OF HEAVIER ELEMENTS
+
+TOSS-UP
+3) PHYSICS   Multiple Choice   Which of the following cells cannot be recharged?
+W) Dry
+X) Wet
+Y) Primary
+Z) Secondary
+ANSWER: Y) PRIMARY
+BONUS
+3) PHYSICS   Multiple Choice   Changing which of the following will NOT result in a change in the
+voltage induced in a rotating wire coil?
+W) Rate of rotation
+X) Wire resistance
+Y) Number of coil loops
+Z) Average loop area
+ANSWER: X) WIRE RESISTANCE
+
+TOSS-UP
+9) PHYSICS   Short Answer   In 1868, observers of a solar eclipse first noticed a bright yellow
+spectral line. They theorized that this was due to a new element and gave it what sun-inspired
+name?
+ANSWER: HELIUM
+BONUS
+9) PHYSICS   Multiple Choice   An electroscope is negatively charged, with the leaves at an
+angle of about 45°. When a negatively charged rod is slowly brought near the plate of the
+electroscope, the leaves do which of the following?
+W) Repel
+X) Attract
+Y) Repel then attract
+Z) Fall to zero then repel
+ANSWER: W) REPEL
+
+TOSS-UP
+15) PHYSICS   Short Answer   A lunar vehicle on Earth moves at 10 kilometers per hour. When it
+travels at the same speed on the Moon, what is its momentum in comparison to its momentum
+on Earth, assuming that the Moon’s gravitational force is one fifth that of Earth’s?
+ANSWER: THE SAME (ACCEPT: EQUAL)
+BONUS
+15) PHYSICS   Short Answer   Coulomb’s law states that an electric force between two charges
+is inversely proportional to the square of what quantity?
+ANSWER: DISTANCE BETWEEN THEM (ACCEPT: THEIR SEPARATION, RADIAL
+DISTANCE BETWEEN THEM)
+
+TOSS-UP
+21) PHYSICS   Short Answer  What is the SI unit of inductance?
+ANSWER: HENRY
+BONUS
+21) PHYSICS   Multiple Choice   A radioactive element has a half life of 50 seconds. Which of the
+following is true of a sample of such an element?
+W) Every atom of the element decays after 50 seconds
+X) Every atom of the element decays after 100 seconds
+Y) After 100 seconds, one fourth of the sample has decayed
+Z) After 100 seconds, three fourths of the sample has decayed
+ANSWER: Z) AFTER 100 SECONDS, THREE FOURTHS OF THE SAMPLE HAS DECAYED
+
+TOSS-UP
+5) PHYSICS   Multiple Choice   The acceleration of an object that is in free fall in a vacuum is
+which of the following?
+W) Proportional to the mass of the object
+X) Proportional to the inverse of the mass of the object
+Y) Independent of the mass of the object
+Z) Equal to the product of force and mass
+ANSWER: Y) INDEPENDENT OF THE MASS OF THE OBJECT
+BONUS
+5) PHYSICS   Short Answer  What is the name of the phenomenon that explains why the surface
+of water might look like a mirror when viewed from underwater?
+ANSWER: TOTAL INTERNAL REFLECTION (ACCEPT: REFRACTION PAST THE CRITICAL
+ANGLE)
+
+TOSS-UP
+11) PHYSICS   Multiple Choice   An object is suspended from a spring balance in an elevator.
+The reading of the balance is 200 newtons when the elevator is at rest. If the balance reading
+later is 190 newtons, which of the following best describes how the elevator could be moving at
+that time?
+W) Downward at constant speed
+X) Downward and increasing in speed
+Y) Upward at constant speed
+Z) Upward and increasing in speed
+ANSWER: X) DOWNWARD AND INCREASING IN SPEED
+BONUS
+11) PHYSICS   Multiple Choice   A small object is 10 centimeters in front of a plane mirror.
+Standing 20 centimeters behind the object, 30 centimeters from the mirror, at what distance in
+centimeters must you focus your eyes to see the object’s mirror image clearly?
+W) 20
+X) 30
+Y) 40
+Z) 50
+ANSWER: Y) 40
+
+TOSS-UP
+17) PHYSICS   Multiple Choice   Which of the following products has the same units as power?
+W) Work and time
+X) Force and distance
+Y) Force and velocity
+Z) Force and acceleration
+ANSWER: Y) FORCE AND VELOCITY
+BONUS
+17) PHYSICS   Short Answer  When turned on, a ceiling fan reaches 100 revolutions per minute
+in 30 seconds. When turned off, it coasts to a stop in 60 seconds. What is the ratio of the
+average angular acceleration in the first 30 seconds after it was turned on to that observed after
+it was turned off?
+ANSWER: -2 (ACCEPT: -2 TO 1)
+
+TOSS-UP
+23) PHYSICS   Multiple Choice   A girl runs up one flight of steps. Which of the following factors
+does NOT affect the work done by the girl against gravity?
+W) Her mass
+X) Height of the flight of steps
+Y) Her speed
+Z) Acceleration due to gravity
+ANSWER: Y) HER SPEED
+BONUS
+23) PHYSICS   Short Answer  What is the efficiency of the body when a cyclist expends 1000
+watts of power to deliver mechanical energy to the bicycle at a rate of 100 watts?
+ANSWER: 10%
+
+TOSS-UP
+5) PHYSICS   Multiple Choice   The acceleration of an object that is in free fall in a vacuum is
+which of the following?
+W) Proportional to the mass of the object
+X) Proportional to the inverse of the mass of the object
+Y) Independent of the mass of the object
+Z) Equal to the product of force and mass
+ANSWER: Y) INDEPENDENT OF THE MASS OF THE OBJECT
+BONUS
+5) PHYSICS   Short Answer  What is the name of the phenomenon that explains why the surface
+of water might look like a mirror when viewed from underwater?
+ANSWER: TOTAL INTERNAL REFLECTION (ACCEPT: REFRACTION PAST THE CRITICAL
+ANGLE)
+
+TOSS-UP
+11) PHYSICS   Multiple Choice   An object is suspended from a spring balance in an elevator.
+The reading of the balance is 200 newtons when the elevator is at rest. If the balance reading
+later is 190 newtons, which of the following best describes how the elevator could be moving at
+that time?
+W) Downward at constant speed
+X) Downward and increasing in speed
+Y) Upward at constant speed
+Z) Upward and increasing in speed
+ANSWER: X) DOWNWARD AND INCREASING IN SPEED
+BONUS
+11) PHYSICS   Multiple Choice   A small object is 10 centimeters in front of a plane mirror.
+Standing 20 centimeters behind the object, 30 centimeters from the mirror, at what distance in
+centimeters must you focus your eyes to see the object’s mirror image clearly?
+W) 20
+X) 30
+Y) 40
+Z) 50
+ANSWER: Y) 40
+
+TOSS-UP
+17) PHYSICS   Multiple Choice   Which of the following products has the same units as power?
+W) Work and time
+X) Force and distance
+Y) Force and velocity
+Z) Force and acceleration
+ANSWER: Y) FORCE AND VELOCITY
+BONUS
+17) PHYSICS   Short Answer  When turned on, a ceiling fan reaches 100 revolutions per minute
+in 30 seconds. When turned off, it coasts to a stop in 60 seconds. What is the ratio of the
+average angular acceleration in the first 30 seconds after it was turned on to that observed after
+it was turned off?
+ANSWER: -2 (ACCEPT: -2 TO 1)
+
+TOSS-UP
+23) PHYSICS   Multiple Choice   A girl runs up one flight of steps. Which of the following factors
+does NOT affect the work done by the girl against gravity?
+W) Her mass
+X) Height of the flight of steps
+Y) Her speed
+Z) Acceleration due to gravity
+ANSWER: Y) HER SPEED
+BONUS
+23) PHYSICS   Short Answer  What is the efficiency of the body when a cyclist expends 1000
+watts of power to deliver mechanical energy to the bicycle at a rate of 100 watts?
+ANSWER: 10%
+
+TOSS-UP
+3) PHYSICS   Short Answer   A bicycle wheel undergoes constant angular acceleration for time t.
+Identify all of the following three choices at which the average acceleration equals the
+instantaneous acceleration: 1) 0.5t, 2) 0.67t, 3) 0.707t.
+ANSWER: ALL (ACCEPT 1, 2, 3)
+BONUS
+3) PHYSICS   Short Answer  What is the average force in newtons exerted on a 25 gram egg by
+a bed sheet if the egg hits the sheet at 4 meters per second and takes 0.2 seconds to stop,
+given acceleration due to gravity as 10 meters per second squared?
+ANSWER: 0.5
+
+TOSS-UP
+9) PHYSICS   Multiple Choice   Four particles are moving from north to south through a region
+with magnetic field directed from west to east. Which of the following particles bends
+downward?
+W) Alpha
+X) Beta
+Y) Neutron
+Z) Graviton
+ANSWER: X) BETA
+BONUS
+9) PHYSICS   Short Answer    Forty-five joules of energy are added to a quantity of ideal gas,
+and the gas expands and does 34 joules of work. What is the change in internal energy of the
+gas, in joules?
+ANSWER: 11
+
+TOSS-UP
+17) PHYSICS   Multiple Choice   When a tennis racket hits a tennis ball, how do the forces on
+each object compare?
+W) The force on the tennis ball has a greater magnitude than the force on the racket
+X) The force on the racket has a greater magnitude than the force on the ball
+Y) The magnitude of the force on each object is the same
+Z) The forces depend on the level of impact
+ANSWER: Y) THE MAGNITUDE OF THE FORCE ON EACH OBJECT IS THE SAME
+BONUS
+17) PHYSICS   Short Answer   A wave with a frequency of 40 hertz has a wavelength of 2.5
+meters. What is the phase velocity in meters per second?
+ANSWER: 100
+
+TOSS-UP
+23) PHYSICS   Short Answer   Sue and Ben are 5 and 10 meters, respectively, away from a
+balloon when it pops loudly. Sue's sound pressure meter recorded a level of 80 decibels. What
+did Ben's identical meter record in decibels to the nearest decibel?
+ANSWER: 74
+BONUS
+23) PHYSICS   Multiple Choice   A current-carrying wire changes diameter from larger to smaller
+gauge. In which of the following locations would the current be greater?
+W) Larger section
+X) Smaller section
+Y) At the location where the wire changes diameter
+Z) It would be the same at all points
+ANSWER: Z) IT WOULD BE THE SAME AT ALL POINTS
+
+TOSS-UP
+3) PHYSICS   Short Answer   A 9 volt DC power supply is connected to a 10 henry inductor and a
+30 ohm resistor in series. Providing your answer as a decimal to the nearest tenth, after the
+circuit has been connected for a very long time, how much current in amperes flows through the
+circuit?
+ANSWER: 0.3
+BONUS
+3) PHYSICS   Short Answer   A 9 volt battery is composed of six 1.5 volt cells, which are
+connected in series. Each cell has an internal resistance of 0.2 ohms. Providing your answer to
+the nearest tenth, what is the maximum current in amperes that can be obtained from such a
+battery?
+ANSWER: 7.5
+
+TOSS-UP
+9) PHYSICS   Short Answer   The sound level of a normal conversation is measured at 65
+decibels. If the intensity of the sound waves in the conversation was multiplied by a factor of 100
+as people began to yell, what would the new sound level measure in decibels?
+ANSWER: 85
+BONUS
+9) PHYSICS   Short Answer   Given acceleration due to gravity as 9.8 meters per second
+squared, how much horizontal force, to the nearest newton, is required to keep a 30 kilogram
+block moving at constant speed across a horizontal surface, with a frictional coefficient of 0.20
+between the floor and the block?
+ANSWER: 59
+
+TOSS-UP
+17) PHYSICS   Multiple Choice   Tripling the power output from a speaker emitting a single tone
+will result in an increase in sound intensity in decibels that is closest to which of the following?
+W) 0.3
+X) 2
+Y) 4
+Z) 5
+ANSWER: Z) 5
+BONUS
+17) PHYSICS   Short Answer  When subjected to a potential difference of 100 volts, a parallel-
+plate capacitor builds up a charge on one plate of 0.2 coulombs. Providing your answer to the
+nearest thousandth, what is this capacitor's capacitance in farads?
+ANSWER: 0.002
+
+TOSS-UP
+23) PHYSICS   Short Answer  What is the efficiency of an ideal Carnot engine operating
+between temperature reservoirs of 27º Celsius and 227º Celsius?
+ANSWER: 40%
+BONUS
+23) PHYSICS   Short Answer   A parachutist lands on the ground at a speed of 6 meters per
+second. Providing your answer to the nearest tenth and given acceleration due to gravity as 10
+meters per second squared, what is the height in meters from which a free-falling object would
+have to fall to reach the same speed?
+ANSWER: 1.8
+
+TOSS-UP
+3) PHYSICS   Multiple Choice   The electron transitions responsible for the generation of light
+have durations on the order of 10-8 seconds. Which of the following best represents the natural
+linewidth in hertz of the resulting visible light?
+W) 10-8
+X) 3
+Y) 108
+Z) 1016
+ANSWER: Y) 108
+BONUS
+3) PHYSICS   Multiple Choice   Which of the following types of thermometer is based on the
+difference in the voltage induced by a temperature gradient in two metals?
+W) Beckman
+X) Silicon band gap
+Y) Thermistor
+Z) Thermocouple
+ANSWER: Z) THERMOCOUPLE
+
+TOSS-UP
+9) PHYSICS   Short Answer   In your interferometry [in-ter-fuh-ROM-i-try] experiment, you
+measure a minimum intensity of 1 watt per meter squared and a maximum intensity of 19 watts
+per meter squared. What is the visibility of your fringes?
+ANSWER: 0.9
+BONUS
+9) PHYSICS   Short Answer   The sound source of a ship’s sonar system operates at a frequency
+22 kilohertz. The speed of sound in water is 1482 meters per second. Providing your answer to
+the nearest hundredth, what is the wavelength of the waves in meters emitted by the source?
+ANSWER: 0.07
+
+TOSS-UP
+15) PHYSICS   Multiple Choice   According to Maxwell’s equations, which of the following does
+NOT exist?
+W) Infinitely separated charges
+X) Magnetic monopoles
+Y) Magnetically contained plasma
+Z) Superconductivity
+ANSWER: X) MAGNETIC MONOPOLES
+BONUS
+15) PHYSICS   Short Answer   A person who weighs 200 pounds on Earth, where acceleration
+due to gravity is 9.8 meters per second squared, is standing in a circular rotating space station
+in outer space, with a tangential speed of 300 meters per second. If the radius of the station is
+9184 meters, what will the person weigh in the space station?
+ANSWER: THE SAME (ACCEPT: 200 POUNDS)
+
+TOSS-UP
+21) PHYSICS   Short Answer   A 2 kilogram box is pushed starting from rest along a horizontal
+surface with a force of 10 newtons. If the frictional force is 4 newtons, how long in seconds will it
+take the box to reach a speed of 15 meters per second?
+ANSWER: 5
+BONUS
+21) PHYSICS   Short Answer   A rock is tied to the end of a 1 meter long string and spun in a
+vertical circle. Providing your answer as a decimal to the nearest hundredth, what is the
+minimum speed in meters per second it can travel and just get around the top, given
+acceleration due to gravity as 10 meters per second squared?
+ANSWER: 3.16
+
+TOSS-UP
+5) PHYSICS   Multiple Choice   Two identically sized conducting spheres, A, with a charge of
++3.2 x 10-19 coulombs, and B, with a charge of -6.4 x 10-19 coulombs, are allowed to touch. While
+they are touching, sphere A does which of the following?
+W) Gains three protons
+X) Loses three protons
+Y) Gains three electrons
+Z) Gains four electrons
+ANSWER: Y) GAINS THREE ELECTRONS
+BONUS
+5) PHYSICS   Short Answer   A car's starter motor draws a current of 100 amperes at 12.0 volts
+when starting the engine. The mechanical power required to turn the engine is 960 watts. At
+what rate, in watts, is energy from the battery converted to heat?
+ANSWER: 240
+
+TOSS-UP
+11) PHYSICS   Multiple Choice   When a resistor, inductor, and capacitor are connected in series
+to an AC generator, the current through the capacitor must be in phase with the voltage across
+which of the following?
+W) The capacitor
+X) The inductor
+Y) The entire circuit
+Z) The resistor
+ANSWER: Z) THE RESISTOR
+BONUS
+11) PHYSICS   Multiple Choice   In a series resonant circuit, the circuit impedance at resonance
+is always which of the following?
+W) Equal to the resistance
+X) Equal to the capacitive reactance
+Y) Equal to the inductive reactance
+Z) Greater than the capacitive reactance
+ANSWER: W) EQUAL TO THE RESISTANCE
+
+TOSS-UP
+15) PHYSICS   Multiple Choice   The root mean square voltage of a sinusoidal AC coupled circuit
+is approximately equal to its maximum value multiplied by which of the following?
+W) 0.5
+X) 0.7
+Y) 1.4
+Z) 1.7
+ANSWER: X) 0.7
+BONUS
+15) PHYSICS   Short Answer   In one cycle, a heat engine exhausts 3000 joules of heat while
+performing 1500 joules of work. What is its percentage of efficiency to the tenths place?
+ANSWER: 33.3%
+
+TOSS-UP
+23) PHYSICS   Multiple Choice   A wire of radius A carries a uniform current I. The total magnetic
+energy per unit length contained within the wire is which of the following?
+W) Proportional to A2
+X) Proportional to A
+Y) Independent of A
+Z) Zero
+ANSWER: Y) INDEPENDENT OF A
+BONUS
+23) PHYSICS   Multiple Choice   The period of a mass bouncing on a spring is measured in the
+reference frame of an observer as T. If the system were instead moving past the observer with a
+velocity of 0.8c, which of the following is closest to the period she would observe?
+W) 0.44T
+X) 0.6T
+Y) 1.7T
+Z) 1.9T
+ANSWER: Y) 1.7T
+
+TOSS-UP
+2) PHYSICS   Multiple Choice   Which of the following best describes why arches and domes are
+more stable than flat roofed structures?
+W) They transmit compressive forces along their length to the ground, uniformly bearing the
+load of gravity upon the structure
+X) Each section is under great tension, using the stronger dimension of the components
+Y) Torsional resistance to sideways swaying ensures that such structures are stable, even in
+high winds
+Z) The surface tension of the arched shape allows the building components to be hollowed out,
+saving weight
+ANSWER: W) THEY TRANSMIT COMPRESSIVE FORCES ALONG THEIR LENGTH TO THE
+BONUS
+2) PHYSICS   Short Answer   Given a piece of glass with an index refraction of 2, what is the
+optimal index of refraction, to one decimal place, for an antireflection coating?
+ANSWER: 1.4
+
+TOSS-UP
+3) PHYSICS   Short Answer   Two charges, Q and -Q, are placed at x = -3 and x = +1 on the x-
+axis. Where on the x-axis between +Q and -Q can another charge be placed so that it
+experiences no net force?
+ANSWER: NOWHERE, DOES NOT EXIST
+BONUS
+3) PHYSICS   Short Answer   Suppose that you support a meter stick horizontally by positioning
+one finger under one of the ends and the other finger about one-quarter of the way from the
+opposite end. Now suppose you move your fingers slowly together until they touch. By number,
+identify what will most likely happen to the meter stick: 1) it will fall off the side with the finger
+under the end; 2) it will fall off the side with the finger about one quarter of the way from the end;
+or 3) it will stay balanced on your fingers.
+ANSWER: 3
+
+TOSS-UP
+9) PHYSICS   Multiple Choice   A source travelling towards us at (3/5)c emits photons in a
+direction perpendicular to its velocity. If the source emits photons with energy of 0.5 electron
+volts in its own rest frame, which of the following energies, in electron volts, do the photons
+have in our rest frame?
+W) 0.3
+X) 0.4
+Y) 0.5
+Z) 0.6
+ANSWER: X) 0.4
+BONUS
+9) PHYSICS   Short Answer   An unknown particle with rest energy of 1 mega-electron volt is
+traveling with a speed of (3/5)c along the x-axis in our rest frame when it decays into two
+photons, also travelling along the x-axis. What are the energies of the photons in mega-electron
+volts?
+ANSWER: 0.25 (ACCEPT: ¼) AND 1
+
+TOSS-UP
+17) PHYSICS   Multiple Choice   As a photon travels from water to air, which of the following
+quantities changes?
+W) Frequency
+X) Wavelength
+Y) Energy
+Z) Phase
+ANSWER: X) WAVELENGTH
+BONUS
+17) PHYSICS   Multiple Choice   A starship is heading towards Earth at 0.7c. To begin slowing
+down, it enables a forward thruster that emits fuel at 0.8c in the direction of Earth. Relative to
+Earth, which of the following is the approximate speed of the fuel?
+W) 0.8c
+X) 0.96c
+Y) 0.99c
+Z) 1.5c
+ANSWER: X) 0.96c
+
+TOSS-UP
+23) PHYSICS   Short Answer   Three masses are arranged at the vertices of an equilateral
+triangle and are connected by springs along the edges of the equilateral triangle. How many
+normal modes for vibration does this mass-spring system have?
+ANSWER: THREE
+BONUS
+23) PHYSICS   Short Answer  When a charged particle moves in a dielectric medium at a speed
+greater than the speed of light in that medium, what kind of radiation do the atoms in the
+medium emit?
+ANSWER: CHERENKOV
+
+TOSS-UP
+3) PHYSICS   Multiple Choice   Which of the following principles of fluid dynamics does an
+airplane use to create an upward force?
+W) Archimedes’
+X) Pascal’s
+Y) Venturi’s
+Z) Bernoulli’s
+ANSWER: Z) BERNOULLI’S
+BONUS
+3) PHYSICS   Multiple Choice   If magnetic monopoles exist, which of the following Maxwell’s
+equations would be changed?
+W) Gauss’s law for magnetism only
+X) Gauss’s law for magnetism and Ampere’s law
+Y) Gauss’s law for magnetism and Faraday’s law
+Z) Gauss’s law for magnetism, Ampere’s law, and Faraday’s law
+ANSWER: Y) GAUSS’S LAW FOR MAGNETISM AND FARADAY’S LAW
+
+TOSS-UP
+9) PHYSICS   Short Answer   Two electromagnetic waves are incident upon a gerbil. They are
+identical and coherent except for a phase difference of 60 degrees. If the intensity of each wave
+in isolation is 10 watts per meter squared, what is the intensity of light in watts per square meter
+experienced by the gerbil?
+ANSWER: 30
+BONUS
+9) PHYSICS   Short Answer   An ideal gas is enclosed within a container with a movable piston
+as the lid. The gas is initially at a pressure of 3 atmospheres and occupies a volume of 2 liters.
+The piston is lowered so that the gas now occupies 1.5 liters at a pressure of P. If the process
+was carried out slowly, maintaining constant temperature in contact with a suitable reservoir,
+what is P in atmospheres?
+ANSWER: 4
+
+TOSS-UP
+17) PHYSICS   Short Answer  When an object with a volume of 10 cubic meters is completely
+submerged in water, given that acceleration due to gravity is 9.8 meters per second squared,
+what is the buoyant force on the object in newtons if the density of water is 1000 kilograms per
+cubic meter?
+ANSWER: 98,000
+BONUS
+17) PHYSICS   Multiple Choice   Stress-strain curves show how real materials respond to forces
+that are applied to them. Materials such as steel have a region of elasticity where they
+approximate an ideal spring and a region where they start to deform plastically. Where the
+materials are acting like an ideal spring, how do we find their Young's modulus?
+W) It is the slope of the stress-strain curve
+X) It is the integral of the curve in the elastic region
+Y) It is the y-intercept of the stress-strain curve
+Z) It is the second derivative of the curve just after transition into the region of plastic
+deformation
+ANSWER: W) IT IS THE SLOPE OF THE STRESS-STRAIN CURVE
+

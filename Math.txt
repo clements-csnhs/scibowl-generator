@@ -1,0 +1,630 @@
+TOSS-UP
+                                                                                                                            4) MATH   Multiple Choice   For all real numbers, the expression                                    [the square root
+                                                                                                                            of the quantity x squared minus 4 x plus 4] equals which of the following?
+W) x                                                                                                    2
+X) x                                                                                                    2x + 2
+Y) |x                                                                                                                       2| [the absolute value of the quantity x minus 2]
+Z) x + 2
+                                                                                                        ANSWER: Y) |x       2|
+                                                                                                                            BONUS
+                                                                                                                            4) MATH   Short Answer   What are the coordinates of the vertex of the graph of y = 2x2 + 8x - 3?
+                                                                                                        ANSWER: (-2, -11)
+
+TOSS-UP
+10) MATH   Multiple Choice   The equation -3 + |-2x - 5| = k [negative 3 plus the absolute value
+of the quantity negative 2x minus 5 equals k] has no solution if k equals which of the
+following?
+W) -5
+X) -3
+Y) 0
+Z) 7
+ANSWER: W) -5
+BONUS
+10) MATH   Multiple Choice  Which of the following statements is NOT true?
+W) cos(-x) = cos(x) [cosine of negative x equals cosine of x]
+X) tan(-x) = tan(x) [tangent of negative x equals tangent of x]
+Y) The amplitude of y = -2 cos(t) is equal to 2
+Z) The range of y = -5 sin(t) is [-5 , 5] [the closed interval from negative 5 to 5]
+ANSWER: X) tan(-x) = tan(x)
+
+TOSS-UP
+16) MATH   Short Answer   If the graph of the function f lies in quadrant IV, then in which
+quadrant does the graph of the inverse of f lie?
+ANSWER: II (ACCEPT: 2 OR SECOND)
+BONUS
+16) MATH   Short Answer  What is the period of the function f(x) = sin((π/6) x + π/4) [f of x
+equals the sine of the quantity pi over 6 times x plus pi over 4]?
+ANSWER: 12
+
+TOSS-UP
+4) MATH   Multiple Choice   The variables x and y vary directly. Which of the following equations
+could represent the relationship between x and y?
+W) (1/5)x = 1/y [one fifth x equals 1 over y]
+X) x/y = 1/5 [x over y equals one fifth]
+Y) xy = 1/5 [x y equals one fifth]
+Z) xy = 5
+ANSWER: X) x/y = 1/5
+BONUS
+4) MATH   Short Answer   An open box is to be made from a rectangular piece of material 8
+inches by 6 inches by cutting equal squares of side x from the four corners and turning up the
+sides. In terms of x, give an expression for the volume of the box in cubic inches.
+ANSWER: x(8- 2x)(6- 2x)   (ACCEPT: 4x3 - 28x2 + 48x)
+
+TOSS-UP
+10) MATH   Short Answer   Providing your answer to one decimal place, find the value of the
+63!
+following fraction:                                                                             [the numerator is 63 factorial; the denominator is 62 factorial times 3
+62!3!
+factorial].
+ANSWER: 10.5
+                                                                                                BONUS
+10) MATH   Short Answer   Name all of the quadrants that contain solutions of the inequality
+2x - y > 4 .
+ANSWER: I, III, IV (ACCEPT: 1, 3, 4 or FIRST, THIRD, FOURTH)
+
+TOSS-UP
+16) MATH   Multiple Choice   If the surface area of a cube is 96 square units, which of the
+following is the length of a diagonal of a face of the cube?
+W) 4
+X) 4√2
+Y) 4√3
+Z) 16√2
+ANSWER: X) 4√2
+BONUS
+16) MATH   Short Answer   Determine the largest possible real domain of y =  √௫−1
+√௫2− 1 [y equals
+the fraction with numerator the square root of the quantity x minus 1 and denominator
+the square root of the quantity x squared minus 1 ].
+ANSWER: x > 1
+
+TOSS-UP
+22) MATH   Short Answer   If two 6-sided fair dice are rolled, providing your answer as a fraction
+in lowest terms, what is the probability that both numbers will be even?
+ANSWER: 1
+4
+BONUS
+22) MATH   Short Answer   Mary travels for 110 miles averaging 55 miles per hour and for 150
+miles averaging 50 miles per hour. What is Mary’s average speed in miles per hour for the trip?
+ANSWER: 52
+
+TOSS-UP
+5) MATH   Short Answer   How many distinct diagonals does a pentagon have?
+ANSWER: 5
+BONUS
+5) MATH   Short Answer   The polynomial p(x) = x4 + 5x3 - 2x2 - 24x has a zero at x = 2. Factor p
+completely.
+ANSWER: x(x - 2)(x + 3)(x + 4)
+[NOTE: EXPRESSIONS IN ANSWER CAN BE IN ANY ORDER]
+
+TOSS-UP
+11) MATH   Short Answer  What is the surface area of a cube with volume 8?
+ANSWER: 24
+BONUS
+11) MATH   Short Answer   In terms of x and in standard polynomial form, what is the volume of a
+right rectangular prism with dimensions (x + 4), (x + 1), and (x + 6)?
+ANSWER: x3 + 11x2 + 34x + 24
+
+TOSS-UP
+19) MATH   Short Answer   For what values of x is the function f(x)=                          [f of x equals the
+fraction with numerator x squared and denominator x squared minus 4 x plus 4] NOT
+defined?
+ANSWER: 2
+BONUS
+19) MATH   Multiple Choice  Which of the following inequalities has NO solutions?
+W) 7x + 4 > 3
+X) |x - 1| > -10 [the absolute value of the quantity x minus 1 is greater than negative 10]
+Y) |x + 3| < -2 [the absolute value of the quantity x plus 3 is less than negative 2]
+Z) -100x + 5 ≥ 8
+ANSWER: Y) |x + 3| < -2
+
+TOSS-UP
+6) MATH   Multiple Choice   A certain radioactive element decays over time according to the
+equation                                                                                                [y equals R times one half to the power of the quantity x over
+300], where R  equals the number of grams that were present initially and x equals time in years.
+If 1000 grams were present initially, how many grams will remain after 900 years?
+W) 62.5
+X) 125
+Y) 250
+Z) 500
+ANSWER: X) 125
+BONUS
+6) MATH   Short Answer   If -4x - 9y - 3z = -10 and -5a - 9b = -6, then what is -9b - 15z - 45y - 20x
+- 5a?
+ANSWER: -56
+
+TOSS-UP
+12) MATH   Short Answer   The perimeters of two similar figures have a ratio of 5:7. What is the
+ratio of their areas?
+ANSWER: 25:49 (ACCEPT: 25/49)
+BONUS
+12) MATH   Short Answer   After 40 times at bat, BJ has 9 hits. What is the least number of hits
+he would need in his next 30 times at bat so that he has hits in at least 31% of his total at-bats?
+ANSWER: 13
+
+TOSS-UP
+20) MATH   Short Answer   If a person walks 4 miles due north, 6 miles due east, then 4 miles
+due north, how far in miles is the person displaced from his or her original position?
+ANSWER: 10
+BONUS
+20) MATH   Short Answer   In a standard deck of cards with no jokers, providing your answer as
+a fraction in lowest terms, what is the probability of picking a card that is black or a number less
+than 10 (which includes aces)?
+ANSWER: 11/13
+
+TOSS-UP
+24) MATH   Multiple Choice   The lines y = (a - 5)x + 5 [ y equals open parentheses a minus 5
+close parentheses x plus 5] and y = -2x + 7 are perpendicular if a equals which of the
+following?
+W) -2/9
+X) 9/2
+Y) 5
+Z) 11/2
+ANSWER: Z) 11/2
+BONUS
+24) MATH   Short Answer   For a function f(x), suppose that you know that f(-1) = -2 and that
+f(3) = 2. What would you need to know about f in order to invoke the Intermediate Value
+Theorem to conclude that there is at least one zero of f on [-1, 3] [the closed interval from
+negative 1 to 3]?
+ANSWER: f IS CONTINUOUS ON [-1, 3] (ACCEPT: F IS CONTINOUS ON THE INTERVAL)
+
+TOSS-UP
+1) MATH   Short Answer   What is the degree of the polynomial:   (x - 3)3 (x - 7)4 [open
+parenthesis x minus 3 close parenthesis cubed times open parenthesis x minus 7 close
+parenthesis to the power of 4]?
+ANSWER: 7
+BONUS
+1) MATH   Multiple Choice   If x is an angle such that tan(x) = 5/12 and π < x < 3π/2, then sec(x)
+[secant of x] is equal to which of the following?
+W) -13/12
+X) -13/5
+Y) 13/5
+Z) 13/12
+ANSWER: W) -13/12
+
+TOSS-UP
+6) MATH   Multiple Choice  Which of the following is NOT an even function?
+W) cosx
+X) cos(x2)
+Y) sinx
+Z) sin(x2)
+ANSWER: Y) sinx
+BONUS
+6) MATH   Short Answer   Given that x and y are real numbers, solve for x and y:
+2y + ix = 4 + x - i.
+ANSWER: x = -1; y = 3/2
+
+TOSS-UP
+14) MATH   Short Answer  What are the solutions to x2 - 5x + 6 = 0?
+ANSWER: 2 AND 3
+BONUS
+14) MATH   Short Answer   Find an equation of the graph that results from reflecting the graph of
+y =                                                                                                 over the y-axis, and then shifting the graph 3 units to the left.
+ANSWER: y =                                                                                         (ACCEPT: y =                                                        )
+
+TOSS-UP
+20) MATH   Short Answer   Convert 420 degrees to radians as an improper fraction in terms of pi.
+ANSWER: 7  /3
+BONUS
+20) MATH   Short Answer   The midpoint of segment AB is (1.5, -3). The coordinates of point A
+are (7, -5); what are the coordinates of point B?
+ANSWER: (-4, -1)
+
+TOSS-UP
+4) MATH   Short Answer   What is x equal to in the following expression: logx 7 = 1 [log base x of
+7 equals 1]?
+ANSWER: 7
+BONUS
+4) MATH   Short Answer   If the length, width, and height of a right rectangular prism are in the
+ratio of 3:4:12 [3 to 4 to 12], find the height in meters of the solid if the diagonal of the solid is 26
+meters long.
+ANSWER: 24
+
+TOSS-UP
+7) MATH   Short Answer   Given that g(ݔ) ≤ f (ݔ) ≤ h(ݔ) for all x, the lim௫→a ݃(ݔ) = M [limit as x
+approaches a of g of x is M], and the lim௫→a ℎ(ݔ) = M [limit as x approaches a of h of x is
+M], what is the lim௫→a ݂(ݔ) [limit as x approaches a of f of x]?
+ANSWER: M
+BONUS
+7) MATH   Short Answer   What is the largest possible real domain of f(x) = ln(3x - 1) [f of x
+equals the natural log of the quantity 3x minus 1]?
+ANSWER: x > 1/3 (ACCEPT: THE OPEN INTERVAL FROM 1/3 TO (POSITIVE) INFINITY)
+
+TOSS-UP
+10) MATH   Short Answer  W is one of the vertices of a polygon. If there are 8 diagonals of the
+polygon that contain W, how many sides does the polygon have?
+ANSWER: 11
+BONUS
+10) MATH   Short Answer   A fair standard six-sided die is rolled two times. What is the
+probability that the sum of the numbers on the two rolls will be greater than 9?
+ANSWER: 1/6
+
+TOSS-UP
+16) MATH   Multiple Choice  Which of the following numbers is NOT prime?
+W) 107
+X) 109
+Y) 111
+Z) 113
+ANSWER: Y) 111
+BONUS
+16) MATH   Short Answer   Todd the Tortoise is 268 years old, while Sammy the Snail is 32
+years old. How many years will it take for Todd’s age to be exactly 5 times Sammy’s age?
+ANSWER: 27
+
+TOSS-UP
+22) MATH   Short Answer   Give the coordinates of the point where the line 3x + 2y = 18
+intersects the x axis.
+ANSWER: (6, 0)
+BONUS
+22) MATH   Multiple Choice   A jar contains 50 marbles. Exactly 10% are green, 20% are blue,
+30% are yellow, and the rest are orange. Which of the following is the probability of randomly
+picking first a blue marble, replacing it, and then picking an orange marble?
+W)  1
+25
+X)  2
+25
+Y)  3
+25
+Z)  4
+25
+ANSWER: X)  2
+25
+
+TOSS-UP
+4) MATH   Multiple Choice   The equation -mx + 1 = 13 - 4(x + 3) [negative m x plus 1 equals
+13 minus 4 times the quantity x plus 3] is an identity if m equals which of the following?
+W) -4
+X) -1
+Y) 1
+Z) 4
+ANSWER: Z) 4
+BONUS
+4) MATH   Multiple Choice   If f(x) = -2x2 + 8x - 4, which of the following is true?
+W) f is not a one to one function
+X) The graph of f opens upward
+Y) The graph of f has no x-intercept
+Z) The maximum value of f(x) is -4
+ANSWER: W) f IS NOT A ONE TO ONE FUNCTION
+
+TOSS-UP
+10) MATH   Short Answer  What is the solution set of the inequality (x - 1) 2 ≤ 0 [the quantity x
+minus one squared is less than or equal to zero]?
+ANSWER: 1
+BONUS
+10) MATH   Multiple Choice   If function f is defined by f(x) = (4x2 - 12x)/(x2 - 9) [f of x equals a
+fraction with numerator 4 x squared minus 12 x and denominator x squared minus 9],
+then at x = 3, which of the following is true?
+W) The graph of f has a vertical asymptote
+X) The graph of f has a hole on the x axis
+Y) The graph of f has a hole at (3, 2)
+Z) f(x) = 0
+ANSWER: Y) THE GRAPH OF F HAS A HOLE AT (3, 2)
+
+TOSS-UP
+16) MATH   Multiple Choice   The lines defined by y = 2x and 2y = -x are which of the following?
+W) Parallel
+X) Perpendicular
+Y) Horizontal
+Z) Vertical
+ANSWER: X) PERPENDICULAR
+BONUS
+16) MATH   Short Answer   Providing your answers as fractions in lowest terms, what are the x-
+intercepts of the graph of y = 12x2 - 5x - 2?
+ANSWER: 2/3 AND -1/4
+
+TOSS-UP
+22) MATH   Short Answer  What is the value of i4?
+ANSWER: 1
+BONUS
+22) MATH   Multiple Choice   The hyperbola with equation                                        = 1 possesses which of the
+following characteristics?
+W) It opens left and right and has asymptotes y =  x and y =                                    x
+X) It opens up and down and has asymptotes y =  x and y =     x
+Y) It opens left and right and has asymptotes y =    x and y =                                  x
+Z) It opens up and down and has asymptotes y =    x and y =                                     x
+                                                                                                ANSWER: X) IT OPENS UP AND DOWN AND HAS ASYMPTOTES y =  x AND y =     x
+
+TOSS-UP
+4) MATH   Multiple Choice   The equation -mx + 1 = 13 - 4(x + 3) [negative m x plus 1 equals
+13 minus 4 times the quantity x plus 3] is an identity if m equals which of the following?
+W) -4
+X) -1
+Y) 1
+Z) 4
+ANSWER: Z) 4
+BONUS
+4) MATH   Multiple Choice   If f(x) = -2x2 + 8x - 4, which of the following is true?
+W) f is not a one to one function
+X) The graph of f opens upward
+Y) The graph of f has no x-intercept
+Z) The maximum value of f(x) is -4
+ANSWER: W) f IS NOT A ONE TO ONE FUNCTION
+
+TOSS-UP
+10) MATH   Short Answer  What is the solution set of the inequality (x - 1) 2 ≤ 0 [the quantity x
+minus one squared is less than or equal to zero]?
+ANSWER: 1
+BONUS
+10) MATH   Multiple Choice   If function f is defined by f(x) = (4x2 - 12x)/(x2 - 9) [f of x equals a
+fraction with numerator 4 x squared minus 12 x and denominator x squared minus 9],
+then at x = 3, which of the following is true?
+W) The graph of f has a vertical asymptote
+X) The graph of f has a hole on the x axis
+Y) The graph of f has a hole at (3, 2)
+Z) f(x) = 0
+ANSWER: Y) THE GRAPH OF F HAS A HOLE AT (3, 2)
+
+TOSS-UP
+16) MATH   Multiple Choice   The lines defined by y = 2x and 2y = -x are which of the following?
+W) Parallel
+X) Perpendicular
+Y) Horizontal
+Z) Vertical
+ANSWER: X) PERPENDICULAR
+BONUS
+16) MATH   Short Answer   Providing your answers as fractions in lowest terms, what are the x-
+intercepts of the graph of y = 12x2 - 5x - 2?
+ANSWER: 2/3 AND -1/4
+
+TOSS-UP
+22) MATH   Short Answer  What is the value of i4?
+ANSWER: 1
+BONUS
+22) MATH   Multiple Choice   The hyperbola with equation                                        = 1 possesses which of the
+following characteristics?
+W) It opens left and right and has asymptotes y =  x and y =                                    x
+X) It opens up and down and has asymptotes y =  x and y =     x
+Y) It opens left and right and has asymptotes y =    x and y =                                  x
+Z) It opens up and down and has asymptotes y =    x and y =                                     x
+                                                                                                ANSWER: X) IT OPENS UP AND DOWN AND HAS ASYMPTOTES y =  x AND y =     x
+
+TOSS-UP
+6) MATH   Short Answer   In the three by three matrix,                                                                                                                                            [such that row one
+                                                                                                    contains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8,
+3, and 7], which is the                                                                             [x sub 2, 3] element?
+ANSWER:                                                                                             5
+BONUS
+6) MATH   Short Answer   If the squared length of the diagonal of one face of a cube is 162, what
+is the surface area in square units of the cube?
+ANSWER:   486
+
+TOSS-UP
+12) MATH   Multiple Choice  Which of the following equations is that of a line perpendicular to
+3x - 7y = 5?
+W) 3x + 7y = 10
+X) 7x + 3y = 10
+Y) 7x - 3y = 10
+Z) 3x - 7y = 10
+ANSWER: X) 7x + 3y = 10
+BONUS
+12) MATH   Short Answer  What is the multiplicity of the zero 1 in the polynomial
+p(x) = x4 + x3                                                                                    9x2 + 11x   4?
+ANSWER: 3
+
+TOSS-UP
+20) MATH   Short Answer   In terms of a, b, c, and d, what is the slope of the line 3  x + 2by = cd?
+ANSWER:                                                                                                3  /2b
+BONUS
+20) MATH   Multiple Choice  Which of the following points lies in the solution set for the system
+of two inequalities: 2y - x ≥ -6 and 2y - 3x < -6?
+W) (-4, -1)
+X) (3, 1)
+Y) (0, -3)
+Z) (4, 3)
+ANSWER: X) (3, 1)
+
+TOSS-UP
+1) MATH   Multiple Choice   In the graph of the function f(x) =  sin (                               ) [f of x equals three
+halves the sine of the quantity x over 2], at which of the following x coordinates would f(x) =
+0?
+W) π/2
+X) π
+Y) 2π
+Z) 3π/2
+ANSWER: Y) 2π
+BONUS
+1) MATH   Short Answer   Expressing the answer in simplest form, solve                               [the
+absolute value of the quantity 2r minus 13 fourths is less than 5 halves].
+ANSWER: 3/8 < r <                                                                                    (ACCEPT: 3/8 < r <       )
+
+TOSS-UP
+6) MATH   Short Answer   Find a value for a such that the                                     [limit as x
+approaches infinity of the fraction with numerator ax to the fifth minus x cubed plus x
+and denominator x minus x cubed plus 2 x to the fifth equals 3].
+ANSWER: 6
+BONUS
+6) MATH   Short Answer   Differentiate sin(cosx) [sine of cosine of x].
+ANSWER: -cos(cos x)sinx [ACCEPT: cos (cos x)(-sin x) or -sinx cos(cos(x)); DO NOT ACCEPT:
+-cos2x sinx]
+
+TOSS-UP
+14) MATH   Multiple Choice   Bacteria in a culture are growing exponentially, such that on day 0,
+there are 100 bacteria, on day 1, there are 200 bacteria, and on day 2, there are 400 bacteria.
+Which of the following equations expresses the number of bacteria, y, present at any time t?
+W) y = 100 + 2t [y equals 100 plus 2 to the power of t]
+X) y = 100(2t) [y equals 100 times the quantity 2 to the power of t]
+Y) y = 2t [y equals 2 to the power of t]
+Z) y = 200(2t) [y equals 200 times the quantity 2 to the power of t]
+ANSWER: X) y = 100(2t)
+BONUS
+14) MATH   Short Answer   Find the remainder when f(x) = x6 + 5x5 - x3 + x - 6 is divided by
+(x + 1).
+ANSWER: -10
+
+TOSS-UP
+20) MATH   Short Answer  What is the solution to the following system of three equations:
+equation one: 2x - y + 3z = 8; equation two: x - 6y - z = 0; and equation three: -6x + 3y - 9z =
+24?
+ANSWER: NO SOLUTION
+BONUS
+20) MATH   Short Answer  What is the remainder when                                                is divided by   ?
+ANSWER: -76
+
+TOSS-UP
+4) MATH   Multiple Choice  Which of the following is equivalent to sin24ºcos17º + cos24ºsin17º
+[sine of 24 degrees times cosine of 17 degrees plus cosine of 24 degrees times sine of 17
+degrees]?
+W) Sine of 7º
+X) Cosine of 41º
+Y) Sine of 41º
+Z) Tangent of 41º
+ANSWER: Y) SINE OF 41º
+BONUS
+4) MATH   Short Answer   Solve for x: 5 +                                                         = x + 7 [5 plus the square root of the
+quantity x plus 14 equals x plus 7].
+ANSWER: 2 (DO NOT ACCEPT: -5)
+
+TOSS-UP
+10) MATH   Short Answer   If the exterior angle of a base angle of an isosceles [eye-SOS-uh-
+lees] triangle measures 141º, what is the measure of the vertex angle?
+ANSWER: 102°
+BONUS
+10) MATH   Short Answer   If f(x) = -2x - ex [f of x equals negative 2x minus e to the x], what is
+the range of f’ [the derivative of f]?
+ANSWER: (-∞, -2) (ACCEPT: x < -2 or THE OPEN INTERVAL FROM NEGATIVE INFINITY TO
+-2)
+
+TOSS-UP
+16) MATH   Short Answer   Providing your answer as a fraction in lowest terms, if a family has
+exactly four children, what is the probability of having three girls and one boy?
+ANSWER: ¼
+BONUS
+16) MATH   Short Answer   If the radius of a spherical balloon is expanding at the rate of 5 inches
+per second, assuming the initial volume is 0 and providing your answer as an improper fraction
+in lowest terms, what is its volume in inches cubed in terms of π after 2 seconds?
+ANSWER: 4000π/3
+
+TOSS-UP
+22) MATH   Multiple Choice   Given triangle ABC with right angle A, angle B with a measure of
+30o, and AC equal to                                                                                    , which of the following is the length of side AB?
+W) 9
+X) 6
+Y) 9
+Z) 12
+ANSWER: W) 9
+BONUS
+22) MATH   Short Answer  What are the radius and the coordinates of the center of the circle
+with equation x2 + 6x + y2 + 8y = 0?
+ANSWER: RADIUS = 5; CENTER = (-3, -4)
+
+TOSS-UP
+4) MATH   Short Answer   What is the sum of the infinite geometric series with a first term of 1/3
+and a second term of 1/9?
+ANSWER: 1/2 (ACCEPT: 0.5)
+BONUS
+4) MATH   Short Answer   How many real solutions does the following equation have:
+(x2 + 1)2 + 2(x2 + 1) - 3 = 0 [x squared plus 1 quantity squared plus 2 times open
+parenthesis x squared plus 1 close parenthesis minus 3 equals zero]?
+ANSWER: ONE
+
+TOSS-UP
+10) MATH   Short Answer   If each side of a rectangle is increased by 10%, by what percentage
+is its area increased?
+ANSWER: 21 (ACCEPT: 21%)
+BONUS
+10) MATH   Short Answer   Express                                                                   [the quantity 1 plus 2 i divided by the quantity 4
+minus 5 i] in standard a + bi form.
+ANSWER: -6/41 + (13/41)i  [DO NOT ACCEPT: (-6 +13i)/41]
+
+TOSS-UP
+16) MATH   Short Answer   If the graph of y = (x - 2)2 - 3 [y equals open parenthesis x minus 2
+close parenthesis squared minus three] is translated 5 units up and 2 units to the right, what
+is the vertex of the new parabola obtained?
+ANSWER: (4, 2)
+BONUS
+16) MATH   Short Answer   Solve                                                                   for x in standard   form.
+ANSWER:                                                                                           i
+
+TOSS-UP
+22) MATH   Multiple Choice   For f(x) = x2 + 2x + 4, which of the following statements is NOT
+true?
+W) f(x) has a maximum value
+X) The graph of f is not a line
+Y) The graph of f has no x-intercepts
+Z) The graph of f has a y-intercept
+ANSWER: W) f(x) HAS A MAXIMUM VALUE
+BONUS
+22) MATH   Short Answer   The volume of an open-ended circular cylinder is 32π cubic
+centimeters, and its base has a radius of 4 meters. What is the surface area of the cylinder, in
+terms of π and in square meters?
+ANSWER: 16π
+
+TOSS-UP
+4) MATH   Short Answer   What is the determinant of the 2 by 2 matrix                                    [such that row
+one includes 2 and negative 3, and row 2 includes negative 8 and negative 4]?
+ANSWER: -32
+BONUS
+4) MATH   Short Answer   A coin is tossed 10 times. Providing your answer as a fraction in lowest
+terms, what is the probability that there are 3 heads and 7 tails?
+ANSWER: 15/128
+
+TOSS-UP
+6) MATH   Short Answer   What is the limit of     as x approaches 0?
+ANSWER: 1
+BONUS
+6) MATH   Short Answer   Given the equation 9x2 + 4y2 + 54x - 8y + 49 = 0, what kind of shape is
+its graph, and what are the coordinates of its center?
+ANSWER: ELLIPSE, (-3, 1)
+
+TOSS-UP
+12) MATH   Multiple Choice   Given that a second degree polynomial function f(x) has a zero at
+x = 3 with multiplicity 2, which of the following is true?
+W) The graph of f(x) crosses the y-axis at 3
+X) As x approaches infinity, f(x) approaches infinity
+Y) The graph of f(x) crosses the x-axis at 3
+Z) The graph of f(x) touches but does not cross the x-axis at 3
+ANSWER: Z) THE GRAPH OF f(x) TOUCHES BUT DOES NOT CROSS THE x-AXIS AT 3
+BONUS
+12) MATH   Short Answer   Expressing your answer in simplest form, find the derivative with
+respect to x of y =                                                                                  [the fraction with numerator x cubed minus 8 and denominator x
+minus 2] for all values for which y is defined.
+ANSWER: y’ = 2x + 2   (ACCEPT: 2x + 2)
+
+TOSS-UP
+20) MATH   Short Answer   If the height of a cone is equal to the diameter of its base, express the
+volume of the cone in terms of its radius r and as a fraction in terms of pi.
+ANSWER: (2/3) πr3                                                                                     (ALSO ACCEPT::   2πr3/3)
+BONUS
+20) MATH   Multiple Choice  Which of the following is the volume of the solid created by
+revolving the area bounded by semicircle                                                              [y equals the square root of
+open bracket 16 minus open parenthesis x minus 4 close parenthesis squared close
+brackets] and the x-axis around the x-axis?
+W) 16π
+X) 64π/3
+Y) 64π
+Z) 256π/3
+ANSWER: Z) 256π/3
+
+TOSS-UP
+1) MATH   Short Answer   Expressing your answer in simplest form, if y = (x6) ln(x) [y equals x
+to the sixth power times the natural log of x], what is the derivative of y with respect to x?
+ANSWER: 6x5 ln(x) + x5
+BONUS
+1) MATH   Short Answer   A national achievement test is administered. The test has a mean
+score of 100 and a standard deviation of 15. If Vince’s z-score is 1.20, what is his score on the
+test?
+ANSWER: 118
+
+TOSS-UP
+6) MATH   Multiple Choice  Which of the following best represents the conversion of the
+rectangular coordinates (3, 4) into polar coordinates?
+W) (5, 37o)
+X) (37o, 5)
+Y) (5, 53o)
+Z) (53o, 5)
+ANSWER: Y) (5, 53o)
+BONUS
+6) MATH   Short Answer   Evaluate                                                                [the integral from the square root of 2
+to the 3 times the square root of 2 of the quantity 3 x squared plus 6 dx] in simplest radical
+form.
+ANSWER:
+
+TOSS-UP
+14) MATH   Short Answer  What is the radius of the circle with equation
+x2 + 6x + y2                                                                              8y                                                    11= 0?
+ANSWER: 6
+                                                                                                                                                                                                                                                          BONUS
+                                                                                                                                                         14) MATH   Short Answer   Providing your answer as an improper fraction in lowest terms, solve
+                                                                                          the following equation for x over the real numbers:                                                                                                                     [9 to the power of 2x equals
+                                                                                          27 to the power of the quantity 3x minus 4].
+ANSWER: 12/5
+
